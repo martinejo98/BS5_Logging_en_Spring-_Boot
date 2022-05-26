@@ -1,0 +1,6 @@
+2022-05-26 12:11:36,983 ERROR com.example.EjercicioBS5_Loggin_en_Spring_Boot.Controlador [main] Hola desde controlador pero este log es de tipo ERROR
+2022-05-26 12:11:36,986 WARN com.example.EjercicioBS5_Loggin_en_Spring_Boot.Controlador [main] Este es un log de tipoo warning
+2022-05-26 12:11:36,987 ERROR com.example.EjercicioBS5_Loggin_en_Spring_Boot.Controlador [main] Otro de tipo error
+2022-05-26 12:11:36,987 ERROR com.example.EjercicioBS5_Loggin_en_Spring_Boot.Controlador [main] El tercero de tipo ERROR
+2022-05-26 12:11:36,987 WARN com.example.EjercicioBS5_Loggin_en_Spring_Boot.Controlador [main] Este es un log de tipoo warning
+2022-05-26 12:11:37,002 ERROR com.example.EjercicioBS5_Loggin_en_Spring_Boot.Controlador [main] Otro mas de ERROR
